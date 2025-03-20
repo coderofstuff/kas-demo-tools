@@ -2,7 +2,7 @@
 
 A bunch of random scripts to demonstrate some functionality of the WASM SDK.
 
-This not be used for production environments.
+This should not be used for production environments.
 
 ## Dependency
 - Requires Kaspa WASM SDK
