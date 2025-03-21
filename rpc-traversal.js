@@ -1,3 +1,4 @@
+// Run with: node rpc-traversal.js
 globalThis.WebSocket = require('websocket').w3cwebsocket; // W3C WebSocket module shim
 
 const kaspa = require('./kaspa/kaspa');
