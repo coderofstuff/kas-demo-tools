@@ -7,6 +7,7 @@ let rpc = new RpcClient({
     // resolver: new Resolver(),
     url: '127.0.0.1:17210',
     encoding: Encoding.Borsh,
+    networkId: 'mainnet',
 });
 
 rpc.addEventListener(function (event) {
